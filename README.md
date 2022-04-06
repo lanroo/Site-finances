@@ -43,6 +43,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/maratona-discover-01/blob/main/LICENSE.md) para mais detalhes.
+
+
 ---
 
 Editado por Lanna Almeida.
