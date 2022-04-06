@@ -19,7 +19,7 @@
 <br>
 </h1>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p align="center">
